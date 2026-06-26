@@ -10,7 +10,7 @@ function PaymentButton() {
 
       const options = {
 
-        key: "rzp_test_T601q74nElvQyA",
+        key: "*************************",
 
         amount: order.amount,
 
