@@ -91,13 +91,10 @@ Payment Success / Failure
 
 ### Payment UI
 
-*Add your Payment UI screenshot here.*
 
 ### Payment Success
 
-*Add your Razorpay payment success screenshot here.*
 
----
 
 ## ⚙️ Installation
 
@@ -126,15 +123,11 @@ mvn spring-boot:run
 
 ## 🔐 Configuration
 
-Create your own Razorpay Test API Keys and configure them in your backend.
 
 ```properties
 razorpay.key.id=YOUR_KEY_ID
 razorpay.key.secret=YOUR_SECRET_KEY
 ```
-
-> **Do not commit your real API keys or secrets to GitHub.**
-
 ---
 
 ## 📚 What I Learned
